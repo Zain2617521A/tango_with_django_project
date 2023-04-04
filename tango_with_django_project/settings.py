@@ -34,6 +34,7 @@ SECRET_KEY = '!9p&x&8=apg67(urgx91-+3*!ukti&vxal98!_=x3&h%pvm578'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+
 ALLOWED_HOSTS = ['*']
 
 
